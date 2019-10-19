@@ -1,3 +1,3 @@
 # Ukoly
 
-Úkoly do různý předmětů
+Úkoly do různých předmětů
