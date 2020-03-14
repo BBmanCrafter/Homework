@@ -17,5 +17,3 @@ Třída pro reprezentaci tabulky. Bude umět přijímat jednotlivé řádky a da
 
 ### Pragramovací jazyk:
 Java
-
-![alt text](https://media1.giphy.com/media/jPx32usMhvGpO/source.gif)
