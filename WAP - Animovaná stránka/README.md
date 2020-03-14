@@ -14,5 +14,3 @@ Pohádková bytost
 
 ### Pragramovací jazyk:
 HTML a CSS
-
-![alt text](https://media1.giphy.com/media/jPx32usMhvGpO/source.gif)
