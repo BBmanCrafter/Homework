@@ -12,4 +12,4 @@
 ### 5.4.
 * Výpočet adres pro podsítě s užitím VLSM
 
-![alt text](https://media.giphy.com/media/lq9qjZPENdfL5WVNq6/giphy.gif)
+![alt text](https://i.gifer.com/QDyD.gif)
