@@ -1,5 +1,7 @@
 # Projekt E - Webová hra
 
+# Oznámení:
+Projekt není plně dokončen! Chybí dodělat soubor *main.js*, tudíž nedoporučuji zkoušet
 ## Zadání:
 Napište program pro chod jednoduché webové hry, tedy hry, která poběží v okně webového prohlížeče.
 Tvořit tak můžete například piškvorky, lodě, logickou hru miny, hru logik atp.
