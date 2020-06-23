@@ -13,4 +13,4 @@ Téma a styl si můžete vybrat sami, je ale nutné, abych Vám jej schválil.
 PHP, HTML, CSS a JS
 
 ### Screenshoty hry:
-
+> Momentálně žádné, hra je ve vývoji
