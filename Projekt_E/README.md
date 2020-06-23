@@ -7,7 +7,7 @@ Tvořit tak můžete například piškvorky, lodě, logickou hru miny, hru logik
 Téma a styl si můžete vybrat sami, je ale nutné, abych Vám jej schválil.
 ### Možný výsledek
 ![alt text](https://i.imgur.com/AOH7w4f.png)
-![alt text](https://www.funstockretro.co.uk/news/wp-content/uploads/2017/07/Pong-653x400.png)
+![alt text](https://i.guim.co.uk/img/static/sys-images/Technology/Pix/pictures/2008/04/16/Pong460x276.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=23ab69eee3e6fe57a29a95e3da4be528)
 > Pouze příklad
 ### Pragramovací jazyk:
 PHP, HTML, CSS a JS
