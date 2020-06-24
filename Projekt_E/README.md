@@ -13,7 +13,7 @@ PHP, HTML, CSS a JS
 
 ## Popis projektu:
 Hra byla vyvíjena v jazycích HTML, CSS a JavaScript. Kódy a scripta byly psány mnou, ale i s pár radami a tipy (kvůli JavaScriptu) od známého.
-Hra se dá hrát pouze ve dvou hráčích, pomocí kláves W/S a šipek nahoru/dolů, a obsahuje 2 pálky, se kterými se hráči snaží odrazit "míč" do soupeřovi "branky". Hra ale bohužel neobsahuje counter na skóre, tudíž si ho budete muset zapisovat/pamatovat sami (časem ho možná dodělám :) ).
+Hra se dá hrát pouze ve dvou hráčích, pomocí kláves W/S a šipek nahoru/dolů, a obsahuje 2 pálky, se kterými se hráči snaží odrazit "míč" soupeřovi do "branky". Hra ale bohužel neobsahuje counter na skóre, tudíž si ho budete muset zapisovat/pamatovat sami (časem ho možná dodělám :) ).
 ### Stažení a spuštění (Pro ty, co by nevěděli jak):
 Ke spuštění budete potřebovat soubory *index.html, style.css, ball.js, paddle.js* a hlavně *main.js*. Doporučuji soubory dát do samostatně vytvořené složky. Hru/Webovou stránku spustíte pomocí *index.html*
 ### Screenshoty hry:
